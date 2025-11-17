@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on improving my penetration testing skills and building hands-on cybersecurity projects focused on web application security.<br>👯 I’m looking to collaborate on open-source security tools, network automation scripts, and any cybersecurity-related research or mini-projects.<br>🤝 I’m looking for help with advanced web exploitation techniques and improving my methodology for professional penetration testing.<br>🌱 I’m currently learning network security hardening, Active Directory exploitation & defense, and deeper web app security concepts.<br>💬 Ask me about penetration testing basics, network troubleshooting, WordPress security, or anything related to cybersecurity fundamentals.<br>⚡ Fun fact istarted in IT support, moved into networking, and now I’m fully focused on becoming a cybersecurity professional.
 
 
 ## 🌐 Socials:
